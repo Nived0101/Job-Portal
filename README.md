@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿# 💼 Job Portal Web Application
+ 💼 Job Portal Web Application
 
 Full Stack MERN Job Portal built using React.js, Node.js, Express.js, and MongoDB.
 
